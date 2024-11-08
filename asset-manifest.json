@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/NITHIN-PAIDI/Text-speech-converter.git/static/js/main.dc57bc7e.js",
-    "static/js/453.ed3810f9.chunk.js": "/NITHIN-PAIDI/Text-speech-converter.git/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/NITHIN-PAIDI/Text-speech-converter.git/index.html",
-    "main.dc57bc7e.js.map": "/NITHIN-PAIDI/Text-speech-converter.git/static/js/main.dc57bc7e.js.map",
-    "453.ed3810f9.chunk.js.map": "/NITHIN-PAIDI/Text-speech-converter.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.js": "/Text-speech-converter/static/js/main.39187ba6.js",
+    "static/js/453.ed3810f9.chunk.js": "/Text-speech-converter/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Text-speech-converter/index.html",
+    "main.39187ba6.js.map": "/Text-speech-converter/static/js/main.39187ba6.js.map",
+    "453.ed3810f9.chunk.js.map": "/Text-speech-converter/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.dc57bc7e.js"
+    "static/js/main.39187ba6.js"
   ]
 }
