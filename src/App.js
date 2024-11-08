@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import TextToSpeech from './components/TextToSpeech';
+import styled from 'styled-components';
+
+const AppContainer = styled.div`
+  min-height: 100vh;
+  background: #f5f6fa;
+  padding: 20px;
+`;
+
+const Header = styled.header`
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 2rem;
+`;
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <AppContainer>
+      <Header>
+        <h1>Text to Speech App</h1>
+      </Header>
+      <TextToSpeech />
+    </AppContainer>
   );
 }
 
